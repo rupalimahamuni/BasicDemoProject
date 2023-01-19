@@ -3,7 +3,9 @@ package com.demoproject;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("Hello");
+		
+		String str = "Rupali";
+		System.out.println(str);
 	}
 
 }
